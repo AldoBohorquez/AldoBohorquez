@@ -11,8 +11,16 @@ Soy apasionado por la tecnología y disfruto crear soluciones innovadoras a trav
 
 ---
 
-## 📊 Estadísticas de GitHub:
+## 📈 Estadísticas:
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=aldo-omar&show_icons=true&theme=radical)
+
+![Lenguajes de programación](https://github-readme-stats.vercel.app/api/top-langs/?username=aldo-omar&theme=radical&layout=compact)
+
+![Contribuciones en GitHub](https://github-readme-streak-stats.herokuapp.com/?user=aldo-omar&theme=radical)
+
+![Actividad diaria](https://activity-graph.herokuapp.com/graph?username=aldo-omar&theme=radical)
+
+![Repositorios](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=aldo-omar&theme=radical)
 
 ---
 
