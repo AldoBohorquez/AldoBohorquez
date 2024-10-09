@@ -1,7 +1,4 @@
 # ¡Hola! Soy Aldo Omar 👋
-Soy estudiante de Ingeniería de Software y apasionado por la tecnología. Me gusta trabajar en proyectos que involucren inteligencia artificial, análisis de datos y desarrollo web.
-
-💻 Actualmente estoy trabajando en un sistema de gestión de activos municipales con machine learning.
 🚀 Me encanta aprender nuevas tecnologías como Angular, NestJS y Pandas.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
